@@ -1,11 +1,11 @@
 # RepReach Frontend Product Exercise
 
 ```
-TIMEBOX: 	  3-6 hours max. 
+TIMEBOX:    3-6 hours max. 
 LANGUAGES:  Typescript
 FRAMEWORKS: React or React-Native and any libraries you want
 TESTS:	    nice to have, but not mandatory
-DOCS:		    nice to have, but not mandatory
+DOCS:       nice to have, but not mandatory
 ```
 
 # Overview
@@ -18,12 +18,12 @@ This exercise is to implement the best possible solution to the below exercise. 
 2. Filter the list of doctors by free text search
 3. Filter the list of doctors by different properties
 	1. See only doctors that have scheduling enabled
-	2. *Stretch Goal* Filter a list of doctors by specific procedures (i.e. only doctors that 
+	2. **Stretch Goal** Filter a list of doctors by specific procedures (i.e. only doctors that do Botox) 
 
 ## API Spec
 The doctor data will come from the following api:
 #### NOTE: 
-You do not need to create an api or database layer. You can just mock results. The example data is found in /frontend/
+You do not need to create an api or database layer. You can just mock results. The example data is found in [doctor_data.json](frontend/doctor_data.json)
 ```
 GET /api/v1/doctors
 
