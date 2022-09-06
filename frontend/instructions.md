@@ -29,29 +29,26 @@ GET /api/v1/doctors
 
 RESPONSE
 [
-	{
-	  "npi": "abc1234",
-	  "first_name": "John",
-	  "last_name": "Smith",
-	  "title": "MD",
-		"scheduling_enabled": true,
-	  "image_url": "https://demo-image-200x200.jpg",
-	  "primary_specialty": {
-	  	"specialty": "Dermatology",
-	  	"id": 1
-	  },
+  {
+    "npi": "abc1234",
+    "first_name": "John",
+    "last_name": "Smith",
+    "title": "MD",
+    "scheduling_enabled": true,
+    "image_url": "https://demo-image-200x200.jpg",
+    "primary_specialty": {
+   	"specialty": "Dermatology",
+  	"id": 1
+    },
     "procedures": [
-      {
-        "procedure_id": 1,
-        "name": "Botox"
-      },
-      {
-        "procedure_id": 2,
-        "name": "Chemical Peel"
-      }
+       {
+         "procedure_id": 1,
+         "name": "Botox"
+       },
+       ...
     ],
-	},
-	...
+  },
+  ...
 ]
 ```
 
