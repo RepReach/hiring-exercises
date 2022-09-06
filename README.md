@@ -2,9 +2,14 @@
 
 For current open positions see <https://jobs.lever.co/RepReach>
 
--- 
+------------------
 
 # Hiring @ RepReach
+
+Hello! If you're reading this then we're likely in the process of chatting with you about a technical role at [RepReach](https://getrepreach.com)
+
+In order to move forward, we'd like to know a little about how you work. To that end, this repository contains a set of short, timeboxed (1-3 hours max) exercises that you can use to demonstrate your skills and abilities.
+
 
 ## General Instructions
 
