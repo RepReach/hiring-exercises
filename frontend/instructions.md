@@ -13,12 +13,12 @@ This exercise is to implement the best possible solution to the below exercise. 
 
 # Exercise A
 
-### I am a sales rep using an app (web or mobile) to view and analyze doctors  
-1. View a list of doctors in my area
+### I am a pharmaceutical sales rep using an app (web or mobile) to view and analyze doctor information 
+1. View a list of doctors 
 2. Filter the list of doctors by free text search
 3. Filter the list of doctors by different properties
 	1. See only doctors that have scheduling enabled
-	2. **Stretch Goal** Filter a list of doctors by specific procedures (i.e. only doctors that do Botox) 
+	2. Filter a list of doctors by specific procedures (i.e. only doctors that do Botox) 
 
 ## API Spec
 The doctor data will come from the following api:
@@ -53,7 +53,7 @@ RESPONSE
 ```
 
 
-### Bonus points for using the following: 
+### Some example frameworks to get you started: 
 * create-react-app (with typescript)
 * ReactJs or React Native
 * Tailwindcss
