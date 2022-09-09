@@ -22,8 +22,8 @@ This exercise is to implement the best possible solution to the below exercise. 
 
 ## API Spec
 The doctor data will come from the following api:
-#### NOTE: 
-You do not need to create an api or database layer. You can just mock results. The example data is found in [doctor_data.json](frontend/doctor_data.json)
+
+_**Note:** You do not need to create an api or database layer. You can just mock results. The example data is found in [doctor_data.json](doctor_data.json)_
 ```
 GET /api/v1/doctors
 
