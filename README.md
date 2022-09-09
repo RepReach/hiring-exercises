@@ -16,7 +16,7 @@ In order to move forward, we'd like to know a little about how you work. To that
 1. Choose an exercise directory that matches your primary domain. This is the area in which you feel the most comfortable and have the highest degree of mastery
     * [frontend](frontend/instructions.md)
 
-2. Read the `instructions.md` file in the matching directory. Be sure to read the instructions carefully and ask any clarifying questions either via [Github issues](https://github.com/pdepip/hiring-exercises/issues) or by emailing pat@getrepreach.com
+2. Read the `instructions.md` file in the matching directory. Be sure to read the instructions carefully and ask any clarifying questions by emailing pat@getrepreach.com
 
 3. Create a new **private repository** for your exercise and add the RepReach hiring team members as private collaborators (We do this to preserve your anonymity so it's not obvious you are looking for a new role.)
     * [Pat @ RepReach (CTO)](https://github.com/pdepip) 
@@ -25,10 +25,10 @@ In order to move forward, we'd like to know a little about how you work. To that
 
 5. Be sure to include the following in your submission
     * a `README.md` with the following information
-        * **A few screenshots of the finished product**. Show off that work! 📸
+        * **A few screenshots of the finished product**.
         * A short explanation of what you built
         * How to test/demo/run (if applicable)
-            * NOTE: a 'working' exercise is awesome, however it is NOT a hard requirement. We mean it!
+            * NOTE: a 'working' exercise is awesome, however it is not a hard requirement.
         * Any feedback/notes (i.e. if something was hard, confusing, frustrating, etc)
         * Anything else you'd lke us to know about your submission
     * a `ROADMAP.md` with what you would add/change if you had more time. Dream big.
