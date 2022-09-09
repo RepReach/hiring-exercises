@@ -42,8 +42,8 @@ RESPONSE
     },
     "procedures": [
        {
-         "procedure_id": 1,
-         "name": "Botox"
+         "id": 1,
+         "procedure": "Botox"
        },
        ...
     ],
